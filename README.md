@@ -1,5 +1,5 @@
-# Youtube-Discord-Tutorials
-Info of the script i did in the videos on my Youtube Channel for Discord Bot Tutorials in JS (Javascript)
+# Episode 1
+Here you can find the Script created from the Episode #1 in my Youtube Channel of Discord Tutorials for create your first bot!
 
 # Links
 
